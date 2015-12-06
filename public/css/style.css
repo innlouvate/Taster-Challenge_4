@@ -6,7 +6,7 @@ body {
 /*header styling*/
 header {
   position: fixed;
-  width: 95vw;
+  width: 100vw;
   top: 0;
   margin: 10px;
   text-indent: 50px;
@@ -25,7 +25,7 @@ header > h4 {
 nav{
   font: monospace;
   font-size: 15px;
-  width: 95vw;
+  width: 100vw;
 }
 nav > ul > li {
   display: inline;
@@ -41,11 +41,11 @@ a:visited {
 
 section.container {
   clear: left;
-  width: 95vw;
+  width: 100vw;
 }
 section.elements {
   float: left;
-  width: 30vw;
+  width: 30%;
   border: 2px solid white;
   border-radius: 20px;
   margin-top: 180px;
