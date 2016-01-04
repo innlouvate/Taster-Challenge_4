@@ -39,7 +39,7 @@ a:visited {
   color: pink;
 }
 
-section.container {
+.container {
   clear: left;
   width: 100vw;
 }
@@ -59,6 +59,12 @@ section.elements {
   color: white;
 }
 
+.newclasser {
+  background: green;
+  width: 100vw;
+  margin-top: 180px;
+}
+
 article {
   position: static;
   clear: left;
@@ -71,6 +77,13 @@ img.icon {
   float: left;
   margin: 10px;
 }
+
+img.icon1 {
+  height: 100px;
+  width: 100px;
+  margin: 10px;
+}
+
 article > h5 {
   color: pink;
   padding: 10px;
